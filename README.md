@@ -20,12 +20,11 @@
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_5</a>
 
-
-#Modulo-B
-#Modulo-C
-#Modulo-D
-#Modulo-E
-#Modulo-F
+<p>#Modulo-B</p>
+<p>#Modulo-C</p>
+<p>#Modulo-D</p>
+<p>#Modulo-E</p>
+<p>#Modulo-F</p>
 
 
 
