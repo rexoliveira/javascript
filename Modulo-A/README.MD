@@ -1,11 +1,3 @@
-   <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  
    <dt>#Modulo-A</dt>
     <dd>#O que JS é capa de fazer?</dd>
     <dd>#Dicas de aprendizagem</dd>
@@ -20,6 +12,3 @@
 <p>Aula_2 - Como chegamos até aqui?; <input type="checkbox" checked></p>
 
 <p>Aula_3 - Dando os primeiros passos; <input type="checkbox" checked></p>
-
-</body>
-</html>
