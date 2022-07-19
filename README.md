@@ -1,6 +1,6 @@
 <h1># Javascript</h1>
 
- <h2>Curso  JavaScript 5 módulos 33 vídeos Link:</h2>
+ <h2>Curso  JavaScript - 5 módulos 33 vídeos Link:</h2>
  
 <a href="https://youtu.be/1-w1RfGIov4" target="_blank">JavaScript</a>
 
