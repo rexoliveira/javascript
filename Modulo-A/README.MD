@@ -1,5 +1,9 @@
-#Modulo-A
-
+   <dt>#Modulo-A</dt>
+    <dd>#O que JS é capa de fazer?</dd>
+    <dd>#Dicas de aprendizagem</dd>
+    <dd>#JS versus ECMAScript</dd>
+    <dd>#Requisitos de software</dd>
+    <dd>#Primeiros scripts em JS</dd><br>
 
 Modulo_A - Conhecendo JS; <input type="checkbox" checked>
 
