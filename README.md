@@ -4,7 +4,7 @@
  
 <a href="https://youtu.be/1-w1RfGIov4" target="_blank">JavaScript</a>
 
-<p>---------------------------------------------------------------------</p>
+<p>------------------------------</p>
 
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_1</a>
