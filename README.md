@@ -8,7 +8,7 @@
 
 #Modulo-A
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-A/README.md" target="_blank" >README</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-A/README.html" target="_blank" >README</a>
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_1</a>
 
