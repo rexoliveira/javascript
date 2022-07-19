@@ -10,7 +10,7 @@
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A/README.html" target="_blank" >README</a>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-A/aula004/index.html" target="_blank" >Aula004</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-A/aula004/ex001.html" target="_blank" >Aula004-ex001</a>
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_2</a>
 
