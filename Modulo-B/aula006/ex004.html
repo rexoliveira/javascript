@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>Iniciando JavaScript</title>
+  </head>
+  <body>
+    <script>
+      var nome = window.prompt("Qual é seu nome?");
+
+      document.write(
+        `Olá, <strong>${nome}</strong>! Seu nome tem ${nome.length} letras.<br>`
+      );
+
+      document.write(`Seu nome em maiúsculo ${nome.toUpperCase()}.<br>`);
+
+      document.write(`Seu nome em minúscula ${nome.toLocaleLowerCase()}.`);
+    </script>
+  </body>
+</html>
