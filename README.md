@@ -16,6 +16,8 @@
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-B/README.html" target="_blank" >README-B</a>
 
+<a href="https://rexoliveira.github.io/javascript/Modulo-A/aula006/ex002.html" target="_blank" >Aula006-ex002</a>
+
 <p>#Modulo-C</p>
 <p>#Modulo-D</p>
 <p>#Modulo-E</p>
