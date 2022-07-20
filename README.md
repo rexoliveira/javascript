@@ -6,13 +6,13 @@
 
 <p>------------------------------</p>
 
-#Modulo-A
+<h1 style="color: red; font-weight: 700;">#Modulo-A</h1>
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A/README.html" target="_blank" >README-A</a>
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A/aula004/ex001.html" target="_blank" >Aula004-ex001</a>
 
-<p>#Modulo-B</p>
+<h1 style="color: red; font-weight: 700;">#Modulo-B</h1>
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-B/README.html" target="_blank" >README-B</a>
 
