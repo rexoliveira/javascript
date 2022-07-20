@@ -8,11 +8,14 @@
 
 #Modulo-A
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-A/README.html" target="_blank" >README</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-A/README.html" target="_blank" >README-A</a>
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A/aula004/ex001.html" target="_blank" >Aula004-ex001</a>
 
 <p>#Modulo-B</p>
+
+<a href="https://rexoliveira.github.io/javascript/Modulo-B/README.html" target="_blank" >README-B</a>
+
 <p>#Modulo-C</p>
 <p>#Modulo-D</p>
 <p>#Modulo-E</p>
