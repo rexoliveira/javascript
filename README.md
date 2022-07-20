@@ -12,14 +12,6 @@
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-A/aula004/ex001.html" target="_blank" >Aula004-ex001</a>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_2</a>
-
-<a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_3</a>
-
-<a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_4</a>
-
-<a href="https://rexoliveira.github.io/javascript/Modulo-A" target="_blank" > Atividade_5</a>
-
 <p>#Modulo-B</p>
 <p>#Modulo-C</p>
 <p>#Modulo-D</p>
