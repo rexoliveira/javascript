@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #deb8873c;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.lista{
+    width: 50%;
+    background-color: #b07c34;
+    display:flex ;
+    padding: 10px;
+    margin:  20px 20px 1px 20px;
+    border-radius: 5px;
+    flex-direction: column;
+    align-content: center;
+    color: white;
+}
+
+.aula{
+    width: 50%;
+    background-color: #b07c34;
+    display:flex ;
+    padding: 10px;
+    margin:  0 20px 20px 20px;
+    border-radius: 5px;
+    flex-direction: column;
+    align-content: center;
+    color: white;
+}
+
+dt, strong{
+    color: rgb(0, 104, 239);
+    font-weight: 600;
+}
+
+body section dd, p{
+    margin-top: 15px;
+}

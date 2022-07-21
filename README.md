@@ -22,7 +22,7 @@
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-B/aula006/ex004.html" target="_blank" >Aula006-ex004</a>
 
-<p>#Modulo-C</p>
+<h1 style="color: red; font-weight: 700;">#Modulo-C</h1>
 <p>#Modulo-D</p>
 <p>#Modulo-E</p>
 <p>#Modulo-F</p>
