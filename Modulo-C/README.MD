@@ -1,9 +1,7 @@
-   <dt>#Modulo-c</dt>
-    <dd>#</dd>
-    <dd>#</dd>
-    <dd>#</dd>
-    <dd>#</dd>
-    <dd>#</dd><br>
+   <dt>#Modulo-C</dt>
+        <dd>#Document Object Model</dd>
+        <dd>#Árvore DOM</dd>
+        <dd>#Manipulando DOM</dd>
 
    <p><strong>Modulo_C</strong> - Entendo o DOM; <input type="checkbox" checked></p>
 
