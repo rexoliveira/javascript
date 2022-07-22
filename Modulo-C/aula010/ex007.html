@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somando números</title>
+
+    <style>
+        body{
+            font: normal 18pt Arial;
+        }
+        input{
+            margin-left: 10px;
+            font: normal 18pt Arial;
+            width: 100px;
+        }
+        fieldset,h1{
+            margin-top: 20px;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+        }
+        span{
+            width: 20px;
+            margin-left: 10px;
+        }
+        h2{
+            padding: 0;
+            width: 20px;
+            margin: 0px;
+            font: normal 18pt Arial;
+            display: flex;
+            
+            align-items: center;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <h1>Somando valores</h1><br>
+
+    <fieldset style="width: 400px;">
+        <legend>Somar</legend>
+        <input type="number" name="n1" id="in1">
+        <span>+</span>
+        <input type="number" name="n2" id="in2">
+        <input type="button" value="Somar" onclick="somar()">
+        <span>=</span><span id="res"></span>
+</fieldset>
+
+
+    <script>
+        function somar(){
+            /* Pegando o id pelo element */
+            var tn1 = window.document.getElementById('in1')
+            /* Pegando o id pelo query */
+            var tn2 = window.document.querySelector('input#in2')
+
+            var res = window.document.getElementsByTagName('span')[2]
+
+            var v1 = Number(tn1.value)
+            var v2 = Number(tn1.value)
+
+            var s = v1 + v2
+
+            res.innerHTML = '<h2><strong>'+s+'</strong></h2>'
+        }
+    </script>
+
+</body>
+</html>

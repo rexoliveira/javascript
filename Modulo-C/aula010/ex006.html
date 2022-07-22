@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eventos DOM</title>
+
+    <style>
+      div#area {
+        background: rgb(42, 139, 42);
+        color: white;
+        width: 200px;
+        height: 200px;
+        line-height: 200px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- <div
+      id="area"
+      onclick="clicar()"
+      onmouseenter="entrar()"
+      onmouseout="sair()"
+    >
+      Interaja...
+    </div> -->
+
+    <!-- O mesmo de cima com AddEventListener -->
+    <div id="area">Interaja...</div>
+
+    <script>
+
+      var a = window.document.getElementById("area");
+
+      /* Liagação com HTML é feita escutando */
+      a.addEventListener("click", clicar);
+      a.addEventListener("mouseenter", entrar);
+      a.addEventListener("mouseout", sair);
+
+      /* function clicar() { */
+      /* p innerHTML aceita elementos html no texto, enquanto innerText não */
+      /*  a.innerHTML = "<h1>Clicou!</h1>";
+      } */
+
+      function clicar() {
+        a.innerText = "Clicou!";
+        a.style.background = "red";
+      }
+
+      function entrar() {
+        a.innerText = "Entrar!";
+      }
+
+      function sair() {
+        a.innerText = "Sair!";
+        a.style.background = "green";
+      }
+    </script>
+  </body>
+</html>
+
+<!-- Página de referência de Eventos->https://developer.mozilla.org/en-US/docs/Web/Events  -->
+<!-- Evento é tudo que pode acontecer com os ELEMENTOS -->
