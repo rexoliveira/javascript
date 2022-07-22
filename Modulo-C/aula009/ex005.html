@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Primeiros Passos com DOM</title>
+
+    <style>
+        body{
+            background-color: rgb(68, 125, 199);
+            color: white;
+            font: normal 18pt Arial
+        }
+    </style>
+  </head>
+  <body>
+    <h1>Iniciando estudos com DOM</h1>
+    <p>Aqui vai os resultados</p>
+    <p>Aprenda a usar o <strong>DOM</strong> em JavaScript.</p>
+    <section id="imsg">Clique em mim</section>
+    <section name="imsg2">Clique em mim</section>
+
+    <script>
+        /* var corpo =  window.document.body
+        var p1 =  window.document.getElementsByTagName('p')[1]
+        p1.style.color = 'blue'
+        corpo.style.background = 'green'
+
+        window.document.write('Assim fica o texto: ' + p1.innerText)
+        window.document.write('<br/>')
+        window.document.write('Assim fica o texto: ' + p1.innerHTML)
+
+        var d =  window.document.getElementById('imsg')
+
+        d.style.background = 'blue'
+        d.innerText = 'Estou aguardando...'
+
+        var m = window.document.getElementsByName('imsg2')[0]
+
+        m.innerText = 'Olá!'
+
+        m.style.background = 'black' */
+
+        var m2 = window.document.querySelector('section#imsg')
+
+        m2.style.color = 'blue'
+        m2.style.background = 'white'
+
+        /* window.alert(p1.innerText) */
+     /* window.document.write('Ola,Mundo!')
+        window.document.write('<br/>')
+        window.document.write(window.document.characterSet)
+        window.document.write('<br/>')
+        window.document.write(window.navigator.appName)
+        window.document.write('<br/>')
+        window.document.white(window.document.URL) */
+        </script>
+
+  </body>
+</html>
+
+
