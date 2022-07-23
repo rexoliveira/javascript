@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        .vel{
+            display: flex;
+            align-items: center;
+        }
+        input, h2, h3{
+            margin-left: 5px;
+            height: 20px;
+        }
+    </style>
+
+    <title>DETRAN - Condições</title>
+  </head>
+  <body>
+    <h1>Sistema de Multa</h1>
+    <section class="vel">
+      <h2>Velocidade do carro:</h2>
+      <input type="number" name="vel" id="ivel" />
+      <h3>Km/h</h3>
+      <input type="button" value="Verificar" onclick="calcular()"/>
+    </section>
+
+    <span id="result"></span>
+
+    <script>
+        var vel = window.document.getElementById('ivel')
+        var res = window.document.getElementById('result')
+        
+        function calcular(){
+            //Caixa input do tipo number sempre retorna um string pos isso precisa de conversão
+            var num = Number(vel.value)
+            res.innerHTML = '<p>Sua velocidade atual é de <strong>'+num+'Km/h</strong>.</p>'
+
+            if (num > 60) {
+                res.innerHTML += '<p>Você foi <strong>MULTADO</strong> por excesso de velocidade!</p>'
+            } 
+
+            res.innerHTML += '<p>Dirija sempre com cinto de segurança.</p>'
+         
+
+        }
+    </script>
+  </body>
+</html>
