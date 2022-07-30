@@ -38,17 +38,17 @@
 <h1 style="color: green; font-weight: 700;">#Modulo-D</h1>
 <a href="https://rexoliveira.github.io/javascript/Modulo-D/README.html" target="_blank" >README-D</a><br><br>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-D/aula011" target="_blank" >Aula011-ex008-JS</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-D/Aula011" target="_blank" >Aula011-ex008-JS</a>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-D/aula011" target="_blank" >Aula011-ex009-JS</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-D/Aula011" target="_blank" >Aula011-ex009-JS</a>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-D/aula011/ex010.html" target="_blank" >Aula011-ex010</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-D/Aula011/ex010.html" target="_blank" >Aula011-ex010</a>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-D/aula012" target="_blank" >Aula012-ex011-JS</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-D/Aula012" target="_blank" >Aula012-ex011-JS</a>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-D/aula012" target="_blank" >Aula012-ex012-JS</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-D/Aula012" target="_blank" >Aula012-ex012-JS</a>
 
-<a href="https://rexoliveira.github.io/javascript/Modulo-D/aula012" target="_blank" >Aula012-ex013-JS</a>
+<a href="https://rexoliveira.github.io/javascript/Modulo-D/Aula012" target="_blank" >Aula012-ex013-JS</a>
 
 <h1 style="color: red; font-weight: 700;">#Modulo-F</h1>
 <h1 style="color: red; font-weight: 700;">#Modulo-G</h1>
