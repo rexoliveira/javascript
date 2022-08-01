@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+
+    <title>Exercícios_016 003 - Verificador de Idade</title>
+  </head>
+  <body onload="carregar()">
+    <header>
+      <h1>Verificador de Idade</h1>
+    </header>
+
+    <main id="fundo">
+      
+      <section id="msg">
+        <p class="ano">Ano de nascimento:
+          <input type="number" name="ano" id="ano">
+        </p>
+        <p class="sexo">Sexo:
+          <!-- Mesmo name para formar um grupo -->
+          <label for="masc">Masculino</label>
+          <input type="radio" name="radsex" id="masc" checked>
+          <label for="femin">Feminimo</label>
+          <input type="radio" name="radsex" id="femin">
+        </p>
+        <p>
+          <input id="verificar" type="button" value="Verificar" onclick="verificar()">
+        </p>
+      </section>
+
+      <section id="circular_image">
+          <p>Preencha os dados acima para ver o resultado!</p>
+      </section>
+      <section class="res" id="res">
+        
+      </section>
+
+    </main>
+
+    <footer>
+      <h2>&copy Curso em vídeo</h2>
+    </footer>
+    
+  </body>
+</html>
