@@ -56,8 +56,16 @@
 
 <a href="https://rexoliveira.github.io/javascript/Modulo-D/Aula012exec/ex016_003/ex016_003.html" target="_blank" >Aula012-ex016-03-JS-HTML</a>
 
+
+<!-- #MODULO-E -->
+<h1 style="color: green; font-weight: 700;">#Modulo-E</h1>
+<a href="https://rexoliveira.github.io/javascript/Modulo-E/README.html" target="_blank" >README-E</a><br><br>
+<a href="https://rexoliveira.github.io/javascript/Modulo-E/Aula013/ex017.js" target="_blank" >Aula013-ex017-JS</a>
+
+<a href="https://rexoliveira.github.io/javascript/Modulo-E/Aula014/ex018.js" target="_blank" >Aula014-ex018-JS</a>
+
+<!-- #MODULO-F -->
 <h1 style="color: red; font-weight: 700;">#Modulo-F</h1>
-<h1 style="color: red; font-weight: 700;">#Modulo-G</h1>
 
 
 
